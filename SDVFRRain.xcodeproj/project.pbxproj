@@ -13,6 +13,7 @@
 		9794DE64268268B800B7E2DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9794DE62268268B800B7E2DD /* Main.storyboard */; };
 		9794DE66268268B900B7E2DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9794DE65268268B900B7E2DD /* Assets.xcassets */; };
 		9794DE69268268B900B7E2DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9794DE67268268B900B7E2DD /* LaunchScreen.storyboard */; };
+		97A36FC32682847800305838 /* RainviewerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A36FC22682847700305838 /* RainviewerModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9794DE65268268B900B7E2DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9794DE68268268B900B7E2DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9794DE6A268268B900B7E2DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97A36FC22682847700305838 /* RainviewerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainviewerModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9794DE5C268268B700B7E2DD /* AppDelegate.swift */,
 				9794DE5E268268B700B7E2DD /* SceneDelegate.swift */,
 				9794DE60268268B700B7E2DD /* ViewController.swift */,
+				97A36FC22682847700305838 /* RainviewerModel.swift */,
 				9794DE62268268B800B7E2DD /* Main.storyboard */,
 				9794DE65268268B900B7E2DD /* Assets.xcassets */,
 				9794DE67268268B900B7E2DD /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9794DE61268268B700B7E2DD /* ViewController.swift in Sources */,
+				97A36FC32682847800305838 /* RainviewerModel.swift in Sources */,
 				9794DE5D268268B700B7E2DD /* AppDelegate.swift in Sources */,
 				9794DE5F268268B700B7E2DD /* SceneDelegate.swift in Sources */,
 			);
